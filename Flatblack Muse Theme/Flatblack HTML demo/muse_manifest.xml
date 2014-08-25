@@ -1,0 +1,106 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4182877991"/>
+    <file name="master_a-stramien.css" crc="58267856" ref="index"/>
+    <file name="index.css" crc="72714740" ref="index"/>
+    <file name="iefonts_index.css" crc="191605585" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3865766194" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="3903299128" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="3937082470" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="phone>index:tablet>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="4257733307" ref="phone>index:tablet>index:index"/>
+    <file name="form_throttle.php" crc="3966014863" ref="phone>index:tablet>index:index"/>
+    <file name="form-u6348.php" crc="410075502" ref="phone>index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="phone>index:tablet>index:index"/>
+    <file name="form-u5724.php" crc="363560337" ref="tablet>index"/>
+    <file name="museredirect.js" crc="236897542" ref="index"/>
+    <file name="form-u799.php" crc="279521311" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="731x778.gif" crc="477046316" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="pattern1-u6256-fr.png" crc="4152019238" ref="phone>index"/>
+    <file name="190x54.gif" crc="3974060637" ref="phone>index:tablet>index:index"/>
+    <file name="rocket.png" crc="344546357" ref="phone>index:tablet>index:index"/>
+    <file name="rocketfull.png" crc="224189680" ref="phone>index:tablet>index:index"/>
+    <file name="support.png" crc="4278404551" ref="phone>index:tablet>index:index"/>
+    <file name="supportfull.png" crc="4086386507" ref="phone>index:tablet>index:index"/>
+    <file name="browser.png" crc="311016480" ref="phone>index:tablet>index:index"/>
+    <file name="browserfull.png" crc="155460901" ref="phone>index:tablet>index:index"/>
+    <file name="361x284.gif" crc="3996903632" ref="phone>index"/>
+    <file name="blue-70981.jpg" crc="247334105" ref="phone>index"/>
+    <file name="361x248.gif" crc="135651580" ref="phone>index"/>
+    <file name="camera.png" crc="213801117" ref="phone>index:tablet>index:index"/>
+    <file name="pencil.png" crc="3808421100" ref="phone>index:tablet>index:index"/>
+    <file name="compass.png" crc="3769528422" ref="phone>index:tablet>index:index"/>
+    <file name="justice.png" crc="3863217283" ref="phone>index:tablet>index:index"/>
+    <file name="mac.png" crc="63770205" ref="phone>index:tablet>index:index"/>
+    <file name="microphone.png" crc="120613005" ref="phone>index:tablet>index:index"/>
+    <file name="settings.png" crc="4252929932" ref="phone>index:tablet>index:index"/>
+    <file name="playstation.png" crc="220212653" ref="phone>index:tablet>index:index"/>
+    <file name="supportblack.png" crc="3811534477" ref="phone>index:tablet>index:index"/>
+    <file name="333x333.gif" crc="77804778" ref="phone>index:tablet>index:index"/>
+    <file name="381x967.gif" crc="4206521901" ref="phone>index"/>
+    <file name="u6359-17.png" crc="4258633574" ref="phone>index"/>
+    <file name="u6359-17-r.png" crc="4290285295" ref="phone>index"/>
+    <file name="u6359-17-m.png" crc="4290285295" ref="phone>index"/>
+    <file name="u6359-17-fs.png" crc="4258633574" ref="phone>index"/>
+    <file name="mapsmall.png" crc="74341599" ref="phone>index:tablet>index:index"/>
+    <file name="mailsmall.png" crc="4110045819" ref="phone>index:tablet>index:index"/>
+    <file name="phonesmall.png" crc="4125474332" ref="phone>index:tablet>index:index"/>
+    <file name="facebook.png" crc="3877302858" ref="phone>index:tablet>index:index"/>
+    <file name="tumbler.png" crc="3887870829" ref="phone>index:tablet>index:index"/>
+    <file name="behance.png" crc="341148370" ref="phone>index:tablet>index:index"/>
+    <file name="vimeo.png" crc="37096298" ref="phone>index:tablet>index:index"/>
+    <file name="twitter.png" crc="4181552246" ref="phone>index:tablet>index:index"/>
+    <file name="deviantart.png" crc="4068894316" ref="phone>index:tablet>index:index"/>
+    <file name="dribble.png" crc="4057717057" ref="phone>index:tablet>index:index"/>
+    <file name="1415x991.gif" crc="214859039" ref="tablet>index"/>
+    <file name="pattern1-u5632-fr.png" crc="4152019238" ref="tablet>index"/>
+    <file name="736x491.gif" crc="396428916" ref="tablet>index"/>
+    <file name="235x185.gif" crc="35830303" ref="tablet>index"/>
+    <file name="737x507.gif" crc="263533699" ref="tablet>index"/>
+    <file name="1415x991-u5663-fr.png" crc="405937973" ref="tablet>index"/>
+    <file name="u5725-17.png" crc="3768350757" ref="tablet>index"/>
+    <file name="u5725-17-r.png" crc="4259064535" ref="tablet>index"/>
+    <file name="u5725-17-m.png" crc="4259064535" ref="tablet>index"/>
+    <file name="u5725-17-fs.png" crc="3768350757" ref="tablet>index"/>
+    <file name="2200x1000.gif" crc="3954097276" ref="index"/>
+    <file name="pattern1-u4481-fr.png" crc="4152019238" ref="index"/>
+    <file name="2200x1200.gif" crc="206546987" ref="index"/>
+    <file name="333x261.gif" crc="343825846" ref="index"/>
+    <file name="833x557.gif" crc="3831808008" ref="index"/>
+    <file name="1057x508.gif" crc="209790019" ref="index"/>
+    <file name="2200x1200-u2812-fr.png" crc="3840025280" ref="index"/>
+    <file name="u813-17.png" crc="3768350757" ref="index"/>
+    <file name="u813-17-r.png" crc="4259064535" ref="index"/>
+    <file name="u813-17-m.png" crc="4259064535" ref="index"/>
+    <file name="u813-17-fs.png" crc="3768350757" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-stramien.css" crc="65023211" ref="tablet>index"/>
+      <file name="index.css" crc="109180368" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="222037960" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3976746710" mt="1389883004280" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-stramien.css" crc="4262906021" ref="phone>index"/>
+      <file name="index.css" crc="4222920531" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3762119728" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4132296881" mt="1389883002207" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="22963792" mt="1389883006661" redirect="true"/>
+</manifest>
